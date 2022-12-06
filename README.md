@@ -1,11 +1,11 @@
-<img src='./assets/BannerYasir.png'/>
+<img src='./assets/FAKHER.png'/>
  <!-- ![A test image]<img src="https://drive.google.com/file/d/1LpW6J9iQ_rU7LBs1JVgjKFqTRHGqVQJI/view?usp=sharing"/> -->
  
  
  <hr></hr>
 <p align="center">
   <samp>
-    Hi, I'm Mohammad Yasir Khan! 👋 <br>
+    Hi, I'm Syed Fakher! 👋 <br>
     🔥 Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React JS, Typescript, Node JS, GCP, AWS, Github CI/CD... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
