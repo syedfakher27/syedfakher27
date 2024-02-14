@@ -10,8 +10,7 @@
     :sparkles: Favorite Tech: JavaScript, React JS, Typescript, Node JS, GCP, AWS, Github CI/CD... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :email:	myasirkhan575@gmail.com <br>
-    :art: Portfolio: https://yasir-portfolio.netlify.app/ <br>
-    :briefcase: LinkedIn: http://www.linkedin.com/in/myasirkhan575 <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/syed-fakher-uddin-830aa6180 <br>
                 <!-- Twitter: https://twitter.com/saadpastadev?lang=en -->
   </samp>
 </p>
